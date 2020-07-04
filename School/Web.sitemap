@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="Default.aspx" title="Home"  description="At Home Page">
+    <siteMapNode url="Students.aspx" title="Students"  description="To Add Update and Delete Students" >
+         <siteMapNode url="StudentUpdate.aspx" title="Update"  description="Update student detalis" />
+      <siteMapNode url="AddStudent.aspx" title="Add Student"  description="Add student detalis" />
+    </siteMapNode>
+    <siteMapNode url="Courses.aspx" title="Courses"  description="To Add Update and Delete Courses" >
+      <siteMapNode url="CourseUpdate.aspx" title="Update"  description="To Add Update and Delete Courses" />
+    </siteMapNode>
+    <siteMapNode url="About.aspx" title="About"  description="Description about the School Information" />
+  </siteMapNode>
+</siteMap>

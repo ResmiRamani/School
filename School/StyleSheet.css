@@ -1,0 +1,41 @@
+﻿ul{
+    list-style-type:none;
+    margin:0px 0px 0px;
+    padding:0px 20px 0px 20px;
+    overflow:hidden;
+    background-color:#444;
+}
+li{float:left;
+
+}
+li a{
+    display :inline-block;
+    padding: 14px 16px;
+    text-align:center;
+    vertical-align:central;
+    text-decoration:none;
+    color:white;
+
+}
+li.right {
+    float: right;
+}
+a.active{
+    background-color:#4caf50;
+}
+a:hover
+{
+    background-color:#ddd;
+    color:black;
+}
+#copyright
+{
+    background-color:black;
+    color:white;
+    width:100%;
+    height:5%;
+    padding:1px;
+    margin-top:0px;
+    text-align:center;
+   
+}
